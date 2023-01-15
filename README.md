@@ -1,10 +1,1 @@
-Notificacion discord
-e
-ee
-e
-ww
-e
-eee
-e
-ee
-e
+Actualizacion de Alberto para notificación de Discord
