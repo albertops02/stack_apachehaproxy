@@ -5,7 +5,7 @@
     <body>
             <?php
                $server_ip = $_SERVER["SERVER_ADDR"];
-                echo "<h1>¡Hola, RAUL MORALES te da la bienvenida al apache 2 con ip interna ".$server_ip."</h1>";
+                echo "<h1>¡Bienvenidos,soy Alberto y este apache 2 tiene ip interna ".$server_ip."</h1>";
 
             ?>
 </html>
